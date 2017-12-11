@@ -1,0 +1,5 @@
+The following code using the convex programming parser CVX for portfolio 
+optimization with second order stochastic dominance constraints. 
+
+The returns used in the paper are accessed from the seminal paper by
+Dentcheva and Ruszczynski, SIAM Jof Optimization. 
